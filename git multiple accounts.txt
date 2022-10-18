@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer?page=1&tab=scoredesc#tab-top
+
 Use HTTPS:
 
 change remote url to https:
