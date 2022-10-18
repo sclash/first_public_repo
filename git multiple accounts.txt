@@ -1,0 +1,12 @@
+Use HTTPS:
+
+change remote url to https:
+
+git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+and you are good to go:
+
+git push
+To ensure that the commits appear as performed by USERNAME, one can setup the user.name and user.email for this project, too:
+
+git config user.name USERNAME
+git config user.email USERNAME@example.com
